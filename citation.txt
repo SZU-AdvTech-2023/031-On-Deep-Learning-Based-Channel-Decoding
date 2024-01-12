@@ -1,0 +1,8 @@
+@inproceedings{REPO031,
+    author = "Gruber, Tobias and Cammerer, Sebastian and Hoydis, Jakob and Ten Brink, Stephan",
+    booktitle = "2017 51st annual conference on information sciences and systems (CISS)",
+    organization = "IEEE",
+    pages = "1--6",
+    title = "{On Deep Learning-Based Channel Decoding}",
+    year = "2017"
+}
